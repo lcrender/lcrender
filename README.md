@@ -1,7 +1,8 @@
 
-### Si estás buscando un programador con pasión por la tecnología, experiencia en SEO/SEM y desarrollo web, ¡no dudes en contactarme! Estoy interesado en trabajar en proyectos desafiantes y en seguir aprendiendo y creciendo como profesional.
+#### Si estás buscando un programador con pasión por la tecnología, experiencia en SEO/SEM y desarrollo web, ¡no dudes en contactarme! Estoy interesado en trabajar en proyectos desafiantes y en seguir aprendiendo y creciendo como profesional.
 
-👋 ¡Hola comunidad de desarrolladores y programadores! Me presento, soy un programador full-stack con experiencia en SEO, SEM y desarrollo web. Si estás buscando un colaborador apasionado por la tecnología y con habilidades en programación, ¡no dudes en contactarme!
+###👋 ¡Hola comunidad de desarrolladores y programadores!
+Me presento, soy un estudiante de programación full-stack con experiencia en SEO, SEM y desarrollo web. 
 
 Desde siempre, he sido un apasionado de la tecnología y la informática. Me he formado en diversas instituciones y universidades para mantenerme actualizado en las últimas tendencias del mundo online, y también he investigado por mi cuenta para seguir creciendo y aprendiendo. Mi curiosidad por el marketing digital me llevó a obtener la diplomatura en Marketing Online y Negocios Digitales, donde descubrí mi pasión por el Search Engine Optimization (SEO) y el Search Engine Marketing (SEM).
 
