@@ -33,7 +33,7 @@
 
 <p align="center">
 
-- **Backend Development**:
+- **Back-end Development**:
     
     ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
     ![ExpressJs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -41,7 +41,7 @@
 
 <br>   
     
-- **Frontend Development**:
+- **Front-end Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
