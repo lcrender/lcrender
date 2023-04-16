@@ -22,7 +22,7 @@
 - Recently finished a Node.js bootcamp.
 - Personal website [link](https://locomotorarender.com)
 - My Blockchain Blog [link](https://funcionesblockchain.com)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://locomotorarender.com/cv/CV.Alejandro.Chazarreta.esp.pdf)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://locomotorarender.com/sobre-mi/)
 
 <br><br>
 
