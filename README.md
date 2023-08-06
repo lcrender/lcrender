@@ -5,11 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer&hearts;++;SEO/SEM+Specialist;Studing+Front-End+Frameworks,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-
 <br>
-
-
-
 	
 ## <picture><img src = "https://locomotorarender.com/cv/about_me.gif" width = 50px></picture> **About me**
 
@@ -17,7 +13,9 @@
 
 <br>
 
-- Studying React and working as an SEO/SEM specialist. 
+- Currently working in a marketing and eCommerce department as an SEO/SEM consultant and full stack developer.
+- Next goals: Freecodecamp's Web 3 Course.
+- Recently completed courses: React, Typescript, Smart Contracts with Chainlink.
 - A passionate Self-taught blockchain technology.
 - Recently finished a Node.js bootcamp.
 - Personal website [link](https://locomotorarender.com)
